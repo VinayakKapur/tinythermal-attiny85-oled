@@ -1,0 +1,11 @@
+# ELF debug binary (not needed by end users)
+*.elf
+
+# Demo video files (upload to YouTube, link from README)
+*.MOV
+*.mov
+*.mp4
+
+# macOS
+.DS_Store
+.gitattributes
